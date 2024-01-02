@@ -7,8 +7,10 @@ This project was challenging for me but I liked the debugging and trial and erro
 
 ## Usage
 
-Link to Console-Finances Webpage: <br>https://kaleims.github.io/Console-Finances/
-To view the output in the console refer to image below. Or just right-click anywhere on the webpage, click inspect, and then at the top right there is a console tab. CLick that and you will see the output in the console.
+Link to Console-Finances Webpage: https://kaleims.github.io/Console-Finances/.
+<br>To view the output in the console refer to image below. Or just right-click anywhere on the webpage, click inspect, and then at the top right there is a console tab. CLick that and you will see the output in the console.
+
+![alt text](Console-Finance.PNG)
 ## License
 
 MIT Licence
